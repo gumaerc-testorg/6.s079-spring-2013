@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 8: Doping'
 uid: b10afc59-f04c-8c88-6bb6-4cbcc4083f3c

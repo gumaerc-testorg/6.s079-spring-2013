@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding ZuS:Cu LED.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s079-nanomaker-spring-2013/50660c49bfd3b4442a64cc35412838df_MIT6_S079S13_lab_slides03.pdf
+file: /media/courses/6-s079-nanomaker-spring-2013/50660c49bfd3b4442a64cc35412838df_MIT6_S079S13_lab_slides03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab Slides 3: ZuS:Cu LED'
 uid: 50660c49-bfd3-b444-2a64-cc35412838df

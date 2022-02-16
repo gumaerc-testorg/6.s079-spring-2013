@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 5: Paper Microfluidics'
 uid: 04288ae2-13b9-ad07-6abb-abd397057e9a

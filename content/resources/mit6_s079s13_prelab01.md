@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding CD spectrometer.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s079-nanomaker-spring-2013/2c2f9aa351d80048345bc6bd8c98269b_MIT6_S079S13_prelab01.pdf
+file: /media/courses/6-s079-nanomaker-spring-2013/2c2f9aa351d80048345bc6bd8c98269b_MIT6_S079S13_prelab01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Pre-lab Exercises 1: CD Spectrometer'
 uid: 2c2f9aa3-51d8-0048-345b-c6bd8c98269b

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 9: Piezoelectricity'
 uid: 0ecb0281-3d95-7741-347c-341a3d8a9c7a

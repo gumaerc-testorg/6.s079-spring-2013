@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 50107f07-799e-b4e1-b227-61a15fe59c9a
 ---
@@ -173,7 +176,7 @@ Barr, Miles C., Jill A. Rowehl, et al. "[Direct Monolithic Integration of Organi
 
 Bernardi, Marco, Jessica Lohrman, et al. "[Nanocarbon-Based Photovoltaics](http://dx.doi.org/10.1021/nn302893p)." _ACS Nano_ 6, no. 10 (2012): 8896–903.
 
-Buscema, Michele, Maria Barkelid, et al. "[Large and Tunable Photothermoelectric Effect in Single-Layer MoS2](http://dx.doi.org/10.1021/nl303321g)." _Nano Letters_ 13, no. 2 (2013): 358–63.
+Buscema, Michele, Maria Barkelid, et al. "[Large and Tunable Photothermoelectric Effect in Single-Layer MoS{{< sub "2" >}}](http://dx.doi.org/10.1021/nl303321g)." _Nano Letters_ 13, no. 2 (2013): 358–63.
 
 Chen, Xi, Shiyou Xu, et al. "[1.6 V Nanogenerator for Mechanical Energy Harvesting Using PZT Nanofibers](http://dx.doi.org/10.1021/nl100812k)." _Nano Letters_ 10, no. 6 (2010): 2133–7.
 

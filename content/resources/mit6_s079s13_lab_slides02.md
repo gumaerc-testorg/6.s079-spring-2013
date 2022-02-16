@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding Holography.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s079-nanomaker-spring-2013/0815ada9044e324a3b9e31cfc56368ed_MIT6_S079S13_lab_slides02.pdf
+file: /media/courses/6-s079-nanomaker-spring-2013/0815ada9044e324a3b9e31cfc56368ed_MIT6_S079S13_lab_slides02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab Slides 2: Holography'
 uid: 0815ada9-044e-324a-3b9e-31cfc56368ed

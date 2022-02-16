@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 6A: PDMS Microfluidics: O2 Plasma Treatment'
 uid: b2b7ba4b-08c4-52d1-73e7-a5e6c0858312
@@ -14,7 +22,7 @@ video_metadata:
   youtube_id: fMUemBZ0k5Q
 ---
 
-**Description:** This video is a tutorial on performing O2 plasma treatment of PDMS using a microwave oven. The demonstration includes how to set up the treatment, as well as testing the hydrophobicity of the treated PDMS.
+**Description:** This video is a tutorial on performing O{{< sub "2" >}} plasma treatment of PDMS using a microwave oven. The demonstration includes how to set up the treatment, as well as testing the hydrophobicity of the treated PDMS.
 
 **Instructor:** Dr. Joseph Summers
 

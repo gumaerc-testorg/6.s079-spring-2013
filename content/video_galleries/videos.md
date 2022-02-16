@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Videos
 uid: 9901f7a3-e6bf-191f-2d39-1cc43ee6573f
 videos:
