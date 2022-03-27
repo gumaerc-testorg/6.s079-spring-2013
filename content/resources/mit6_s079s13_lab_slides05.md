@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lab Slides 5: Paper Microfluidics'
 uid: 80467492-194e-9c92-2285-f7f806c58f74

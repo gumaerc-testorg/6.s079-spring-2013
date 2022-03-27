@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 6A: PDMS Microfluidics: O2 Plasma Treatment'
 uid: b2b7ba4b-08c4-52d1-73e7-a5e6c0858312
 video_files:

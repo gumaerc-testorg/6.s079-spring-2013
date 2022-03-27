@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lab Slides 8: Doping'
 uid: d854bd87-4e1c-ae98-8329-8c07a33d2252

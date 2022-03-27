@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e8467160-35bc-1e4b-2c79-5afd6d3ce70e
 resourcetype: Document
 title: '6.S079 Final Project: Slide Template'
 uid: d52a6306-b8b4-a88f-b3f2-4409d9c41646

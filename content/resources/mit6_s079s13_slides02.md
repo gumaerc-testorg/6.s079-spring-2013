@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lecture Slides 2: Holography'
 uid: 9db8341f-8ca2-b180-ccd2-01c517125bc9

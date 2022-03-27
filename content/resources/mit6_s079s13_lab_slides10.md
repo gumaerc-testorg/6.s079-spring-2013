@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lab Slides 10: Organic Photovoltaics'
 uid: fd1532b5-50d7-ad0c-da05-13feabc257f6

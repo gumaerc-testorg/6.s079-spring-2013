@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Pre-lab Exercises 9: Piezoelectricity and Thermoelectricity'
 uid: 8438a90a-e0eb-bbd7-5ce9-2e7e4633b197

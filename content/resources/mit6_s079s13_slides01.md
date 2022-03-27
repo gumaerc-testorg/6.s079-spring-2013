@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lecture Slides 1: CD Spectrometer'
 uid: 0b94310e-3347-e2f5-9505-409b05c2a949

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Pre-lab Exercises 3: ZuS:Cu LED'
 uid: cf7a065a-c328-a00d-5b97-642c8e52063f

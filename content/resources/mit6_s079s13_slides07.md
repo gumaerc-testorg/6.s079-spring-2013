@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lecture Slides 7: Electrophoresis'
 uid: 4312bc48-0a70-f495-294a-9c0968b0ae6d

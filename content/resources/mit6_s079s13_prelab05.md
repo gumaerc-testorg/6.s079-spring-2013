@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Pre-lab Exercises 5: Paper Microfluidics'
 uid: ef78121b-077f-8131-010d-7c88c04dfbdc

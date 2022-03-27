@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lecture Slides 3: ZuS:Cu LED'
 uid: 98a02873-b234-7b00-eebc-9fc75529edc8

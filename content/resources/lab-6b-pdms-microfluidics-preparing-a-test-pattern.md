@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 6B: PDMS Microfluidics: Preparing a Test Pattern'
 uid: 79788d66-b50e-4144-0e01-da045df58409
 video_files:

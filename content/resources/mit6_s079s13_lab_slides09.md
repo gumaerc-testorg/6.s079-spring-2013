@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Lab Slides 9: Piezoelectricity and Thermoelectricity'
 uid: 51aa40d6-58e4-7dee-2f7d-1f27e7c5c76e

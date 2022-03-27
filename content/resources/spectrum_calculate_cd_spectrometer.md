@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Other
 title: Spectrum_Calculate_CD_Spectrometer.m
 uid: f74a75a7-e5d7-fb74-e6f1-9b5580697316

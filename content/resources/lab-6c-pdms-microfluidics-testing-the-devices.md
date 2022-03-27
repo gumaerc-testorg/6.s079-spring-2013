@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 6C: PDMS Microfluidics: Testing the Devices'
 uid: a81df57f-d630-1e51-4ab2-198fe307cb7c
 video_files:

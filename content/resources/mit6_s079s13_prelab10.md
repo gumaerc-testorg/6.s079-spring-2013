@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 resourcetype: Document
 title: 'Pre-lab Exercises 10: Organic Photovoltaics'
 uid: 9fbd10d3-1c62-427d-a773-a089893dbd7d
