@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, acknowledgements, grading, and the course schedule.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +26,7 @@ Acknowledgements
 The instructors of this course would like to acknowledge the following individuals for their contributions:
 
 *   Prof. Rajeev Ram, for co-developing the lab-based pilot of this seminar (first taught in Fall 2010), and for funding the purchase of most of the lab equipment and materials used to develop those labs
-*   Dr. Kevin Lee, for donating his time and expertise to the PDMS-related labs ([Lab 6: PDMS Microfluidics]({{< baseurl >}}/pages/labs#6) and [Lab 8: Doping]({{< baseurl >}}/pages/labs#8))
+*   Dr. Kevin Lee, for donating his time and expertise to the PDMS-related labs ({{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Lab 6: PDMS Microfluidics" "#6" %}} and {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Lab 8: Doping" "#8" %}})
 
 Calendar
 --------

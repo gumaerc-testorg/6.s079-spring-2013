@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides reading assignments for each pre-lab of the course
+  and details on an optional assignment to review a paper for extra credit.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -103,7 +105,7 @@ Gel Electrophoresis Virtual Lab, University of Utah. "[Electrophoresis Tutorial]
 {{< tdopen >}}
 
 
-Verhoeven, John D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Mystery of Damascus Blades." (PDF)](http://www.hefajstos.agh.edu.pl/files/[2001]%20The%20mystery%20of%20damascus%20sblades%20-%20J.%20Verhoeven.pdf) _Scientific American_ 284 (2001): 74–9.
+Verhoeven, John D. ["The Mystery of Damascus Blades." (PDF)](http://www.hefajstos.agh.edu.pl/files/[2001]%20The%20mystery%20of%20damascus%20sblades%20-%20J.%20Verhoeven.pdf) _Scientific American_ 284 (2001): 74–9.
 
 Greenemeier, Larry. "[Making Plastic as Strong as Steel](http://www.scientificamerican.com/article.cfm?id=making-plastic-as-strong)." _Scientific American_, October 11, 2007.
 

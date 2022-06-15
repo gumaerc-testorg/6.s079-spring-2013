@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Paper Template.
-file: /media/courses/6-s079-nanomaker-spring-2013/de1d9627aa1e830d97c1947dd23deaa7_MIT6_S079S13_papertemp.pdf
+file: /courses/6-s079-nanomaker-spring-2013/de1d9627aa1e830d97c1947dd23deaa7_MIT6_S079S13_papertemp.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Paper Template
 uid: de1d9627-aa1e-830d-97c1-947dd23deaa7
 ---
+This resource contains information regarding Paper Template.
+

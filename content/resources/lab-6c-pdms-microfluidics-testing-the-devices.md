@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -28,4 +29,7 @@ video_metadata:
 
 **Instructor:** Dr. Joseph Summers
 
-Resources associated with this lab are available in the [Labs]({{< baseurl >}}/pages/labs#6) section. Special thanks to Dr. Kevin Lee for his contributions to this lab.
+Resources associated with this lab are available in the {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Labs" "#6" %}} section. Special thanks to Dr. Kevin Lee for his contributions to this lab.
+
+
+
