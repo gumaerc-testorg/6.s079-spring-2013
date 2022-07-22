@@ -5,6 +5,7 @@ file: /courses/6-s079-nanomaker-spring-2013/677ca2ef9b29ec42f1defa98661bb141_MIT
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PDMS Template
 uid: 677ca2ef-9b29-ec42-f1de-fa98661bb141
 ---
 This resource contains information regarding PDMS Template.
-

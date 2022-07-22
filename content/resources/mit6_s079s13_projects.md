@@ -5,6 +5,7 @@ file: /courses/6-s079-nanomaker-spring-2013/d52a6306b8b4a88fb3f24409d9c41646_MIT
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.S079 Final Project: Slide Template'
 uid: d52a6306-b8b4-a88f-b3f2-4409d9c41646
 ---
 This resource contains information regarding final project.
-

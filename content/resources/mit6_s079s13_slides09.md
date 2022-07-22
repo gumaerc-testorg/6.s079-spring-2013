@@ -5,6 +5,7 @@ file: /courses/6-s079-nanomaker-spring-2013/8606d1b655072d598942ee7db08706aa_MIT
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture Slides 9: Piezoelectricity and Thermoelectricity'
 uid: 8606d1b6-5507-2d59-8942-ee7db08706aa
 ---
 This resource contains information regarding Piezoelectricity and Thermoelectricity.
-

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 **Instructor:** Dr. Katey Lo
 
 Resources associated with this lab are available in the {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Labs" "#5" %}} section.
-
-
 

@@ -5,6 +5,7 @@ file: /courses/6-s079-nanomaker-spring-2013/6df711c47ff711a98ae8c605f8711617_MIT
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture Slides 10: Organic Photovoltaics'
 uid: 6df711c4-7ff7-11a9-8ae8-c605f8711617
 ---
 This resource contains information regarding Organic Photovoltaics.
-
