@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides a collection of lab demonstration videos.
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Videos
 uid: 9901f7a3-e6bf-191f-2d39-1cc43ee6573f
 videos:
@@ -18,7 +22,7 @@ videos:
   website: 6-s079-nanomaker-spring-2013
 ---
 
-Below is a collection of lab demonstration videos. Resources associated with each lab are available in the [Labs]({{< baseurl >}}/pages/labs) section. No videos provided for Labs 4, 7, and 10.
+Below is a collection of lab demonstration videos. Resources associated with each lab are available in the {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Labs" %}} section. No videos provided for Labs 4, 7, and 10.
 
 {{< video-gallery "9901f7a3-e6bf-191f-2d39-1cc43ee6573f" >}}
 

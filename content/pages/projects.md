@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section describes the final project, in which students were asked
+  to critically evaluate a current nanotechnology article.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: e8467160-35bc-1e4b-2c79-5afd6d3ce70e
 ---
@@ -16,7 +21,7 @@ By week 10: Hand in a three-slide summary of your project (the lab session this 
 *   Give historical perspective on this work by listing other relevant articles.
 *   Make a preliminary list of issues that you will discuss in your final presentation.
 
-[Slide template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_projects)
+{{% resource_link d52a6306-b8b4-a88f-b3f2-4409d9c41646 "Slide template (PDF)" %}}
 
 By week 12: We will give you feedback on your slides, so that you can make an excellent final presentation.
 

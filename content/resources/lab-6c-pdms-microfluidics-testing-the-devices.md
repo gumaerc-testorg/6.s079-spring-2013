@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 6C: PDMS Microfluidics: Testing the Devices'
 uid: a81df57f-d630-1e51-4ab2-198fe307cb7c
 video_files:
@@ -18,4 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Joseph Summers
 
-Resources associated with this lab are available in the [Labs]({{< baseurl >}}/pages/labs#6) section. Special thanks to Dr. Kevin Lee for his contributions to this lab.
+Resources associated with this lab are available in the {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Labs" "#6" %}} section. Special thanks to Dr. Kevin Lee for his contributions to this lab.
+

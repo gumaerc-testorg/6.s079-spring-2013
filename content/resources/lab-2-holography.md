@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 2: Holography'
 uid: b42ce95f-53e8-960d-2943-56cc29936810
 video_files:
@@ -18,4 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Katey Lo
 
-Resources associated with this lab are available in the [Labs]({{< baseurl >}}/pages/labs#2) section.
+Resources associated with this lab are available in the {{% resource_link d59b0e1d-7dd2-6659-6386-617fda458ad0 "Labs" "#2" %}} section.
+
