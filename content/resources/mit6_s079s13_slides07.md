@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Electrophoresis.
 file: /courses/6-s079-nanomaker-spring-2013/4312bc480a70f495294a9c0968b0ae6d_MIT6_S079S13_slides07.pdf
+file_size: 602749
 file_type: application/pdf
 learning_resource_types:
 - Labs

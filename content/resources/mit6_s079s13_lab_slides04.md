@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Organic LED.
 file: /courses/6-s079-nanomaker-spring-2013/547a8b860ea04ceb1c0cfbbfd556a18b_MIT6_S079S13_lab_slides04.pdf
+file_size: 633607
 file_type: application/pdf
 learning_resource_types:
 - Labs

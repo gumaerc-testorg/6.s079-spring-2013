@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding PDMS microfluidics.
 file: /courses/6-s079-nanomaker-spring-2013/54e063c483cd23bb97b078befd369ec0_MIT6_S079S13_prelab06.pdf
+file_size: 63958
 file_type: application/pdf
 learning_resource_types:
 - Labs

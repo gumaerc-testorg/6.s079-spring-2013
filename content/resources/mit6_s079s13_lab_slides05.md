@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Paper Microfluidics.
 file: /courses/6-s079-nanomaker-spring-2013/80467492194e9c922285f7f806c58f74_MIT6_S079S13_lab_slides05.pdf
+file_size: 754527
 file_type: application/pdf
 learning_resource_types:
 - Labs
