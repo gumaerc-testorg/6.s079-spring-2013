@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding piezoelectricity and thermoelectricity.
 file: /courses/6-s079-nanomaker-spring-2013/8438a90ae0ebbbd75ce92e7e4633b197_MIT6_S079S13_prelab09.pdf
+file_size: 65889
 file_type: application/pdf
 learning_resource_types:
 - Labs

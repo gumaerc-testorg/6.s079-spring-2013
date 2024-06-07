@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Holography.
 file: /courses/6-s079-nanomaker-spring-2013/0815ada9044e324a3b9e31cfc56368ed_MIT6_S079S13_lab_slides02.pdf
+file_size: 286269
 file_type: application/pdf
 learning_resource_types:
 - Labs
