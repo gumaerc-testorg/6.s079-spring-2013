@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding CD Spectrometer.
-file: /courses/6-s079-nanomaker-spring-2013/fd5fb21a4ac9d9d009cab56a655d933e_MIT6_S079S13_lab_slides01.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/fd5fb21a4ac9d9d009cab56a655d933e_MIT6_S079S13_lab_slides01.pdf
 file_size: 1451748
 file_type: application/pdf
 learning_resource_types:
