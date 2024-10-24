@@ -62,7 +62,7 @@ Greenemeier, Larry. "[Making Plastic as Strong as Steel](http://www.scientificam
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9: Piezoelectricity and Thermoelectricity
 {{< tdclose >}}{{< tdopen >}}
-Imaging Technology Group, University of Illinois. "[Atomic Microscopy (AFM) Tutorial](http://virtual.itg.uiuc.edu/training/AFM_tutorial/)."
+Imaging Technology Group, University of Illinois. "Atomic Microscopy (AFM) Tutorial."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10: Organic Photovoltaics
 {{< tdclose >}}{{< tdopen >}}
