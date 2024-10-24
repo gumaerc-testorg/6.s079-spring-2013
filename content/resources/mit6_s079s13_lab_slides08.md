@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Doping.
-file: /courses/6-s079-nanomaker-spring-2013/d854bd874e1cae9883298c07a33d2252_MIT6_S079S13_lab_slides08.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/d854bd874e1cae9883298c07a33d2252_MIT6_S079S13_lab_slides08.pdf
 file_size: 761153
 file_type: application/pdf
 learning_resource_types:

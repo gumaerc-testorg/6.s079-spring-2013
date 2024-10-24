@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Silicon Photovoltaics.
-file: /courses/6-s079-nanomaker-spring-2013/a906f19f3600b776150c595f46e9fa38_MIT6_S079S13_slides11.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/a906f19f3600b776150c595f46e9fa38_MIT6_S079S13_slides11.pdf
 file_size: 2135497
 file_type: application/pdf
 learning_resource_types:
