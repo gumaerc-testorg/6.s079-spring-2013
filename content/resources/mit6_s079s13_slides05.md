@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Paper Microfluidics.
-file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/7f7eaae7318b8aea61f0226fbb6ebbcb_MIT6_S079S13_slides05.pdf
+file: /courses/6-s079-nanomaker-spring-2013/7f7eaae7318b8aea61f0226fbb6ebbcb_MIT6_S079S13_slides05.pdf
 file_size: 1555848
 file_type: application/pdf
 learning_resource_types:
