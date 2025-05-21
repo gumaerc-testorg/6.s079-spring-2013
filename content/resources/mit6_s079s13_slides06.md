@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding PDMS Microfluidics.
-file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/1137338606d547695b1a64390cdb5901_MIT6_S079S13_slides06.pdf
+file: /courses/6-s079-nanomaker-spring-2013/1137338606d547695b1a64390cdb5901_MIT6_S079S13_slides06.pdf
 file_size: 1197799
 file_type: application/pdf
 learning_resource_types:
