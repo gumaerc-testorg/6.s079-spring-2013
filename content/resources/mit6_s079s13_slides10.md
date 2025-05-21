@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Organic Photovoltaics.
-file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/6df711c47ff711a98ae8c605f8711617_MIT6_S079S13_slides10.pdf
+file: /courses/6-s079-nanomaker-spring-2013/6df711c47ff711a98ae8c605f8711617_MIT6_S079S13_slides10.pdf
 file_size: 1003802
 file_type: application/pdf
 learning_resource_types:

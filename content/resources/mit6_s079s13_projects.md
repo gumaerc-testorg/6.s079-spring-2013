@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding final project.
-file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/d52a6306b8b4a88fb3f24409d9c41646_MIT6_S079S13_projects.pdf
+file: /courses/6-s079-nanomaker-spring-2013/d52a6306b8b4a88fb3f24409d9c41646_MIT6_S079S13_projects.pdf
 file_size: 84383
 file_type: application/pdf
 learning_resource_types:
