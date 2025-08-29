@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding Organic LED.
-file: /courses/6-s079-nanomaker-spring-2013/ecad3047a4cf05c15633147a1ea72f6d_MIT6_S079S13_slides04.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/ecad3047a4cf05c15633147a1ea72f6d_MIT6_S079S13_slides04.pdf
 file_size: 1600789
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

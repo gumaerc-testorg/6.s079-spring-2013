@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding Organic Photovoltaics.
-file: /courses/6-s079-nanomaker-spring-2013/9fbd10d31c62427da773a089893dbd7d_MIT6_S079S13_prelab10.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/9fbd10d31c62427da773a089893dbd7d_MIT6_S079S13_prelab10.pdf
 file_size: 92293
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

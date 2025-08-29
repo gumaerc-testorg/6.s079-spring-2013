@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding electrophoresis.
-file: /courses/6-s079-nanomaker-spring-2013/c8d7d80071c6820f252541e95626d008_MIT6_S079S13_prelab07.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/c8d7d80071c6820f252541e95626d008_MIT6_S079S13_prelab07.pdf
 file_size: 63113
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
