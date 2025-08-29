@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This is special file related to spectrometer calibration.
-file: /courses/6-s079-nanomaker-spring-2013/f74a75a7e5d7fb74e6f19b5580697316_Spectrum_Calculate_CD_Spectrometer.m
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/f74a75a7e5d7fb74e6f19b5580697316_Spectrum_Calculate_CD_Spectrometer.m
 file_size: 544
 file_type: text/x-objcsrc
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
