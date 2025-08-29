@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the schedule of lab topics along with associated
   lecture slides, pre-lab exercises, and lab resources.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: d59b0e1d-7dd2-6659-6386-617fda458ad0

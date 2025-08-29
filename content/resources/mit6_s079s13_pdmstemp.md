@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding PDMS Template.
-file: /courses/6-s079-nanomaker-spring-2013/677ca2ef9b29ec42f1defa98661bb141_MIT6_S079S13_PDMStemp.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/677ca2ef9b29ec42f1defa98661bb141_MIT6_S079S13_PDMStemp.pdf
 file_size: 514002
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

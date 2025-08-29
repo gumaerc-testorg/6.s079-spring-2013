@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding silicon photovoltaics.
-file: /courses/6-s079-nanomaker-spring-2013/b0cd2d15fc394595143cb0f6ad19e9c1_MIT6_S079S13_prelab11.pdf
+file: /ol-ocw-studio-app/courses/6-s079-nanomaker-spring-2013/b0cd2d15fc394595143cb0f6ad19e9c1_MIT6_S079S13_prelab11.pdf
 file_size: 84812
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
